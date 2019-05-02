@@ -1,7 +1,7 @@
 Package: caOmicsV
 Type: Package
 Title: Visualization of multi-dimentional cancer genomics data
-Version: 1.14.0
+Version: 1.15.0
 Date: 2015-04-28
 Author: Henry Zhang
 Maintainer: Henry Zhang <hzhang@mail.nih.gov>

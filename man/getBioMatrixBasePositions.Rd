@@ -40,21 +40,21 @@
   getBioMatrixPlotAreaWidth()
 }
 \value{
-  getBioMatrixBasePositions() return an integer vector for xleft, ybottom, xright, and ytop positions.
-  getBioMatrixColumnPadding() return an integer for width of padding between columns in bioMatrix plot.
-  getBioMatrixDataAreaWidth() return an integer for width of data area in bioMatrix plot.
-  getBioMatrixGeneLabelWidth() return an integer for width of gene labels in bioMatrix plot.
-  getBioMatrixGeneNumber() return an integer for total number of genes in bioMatrix plot.
-  getBioMatrixLegendHeight() return an integer for hieght of legend area in bioMatrix plot.
-  getBioMatrixPhenotypeNumber() return an integer for total number of phenotypes in bioMatrix plot.
-  getBioMatrixRemarkWidth() return an integer for width of remark column in bioMatrix plot.
-  getBioMatrixRowPadding() return an integer for height of padding between rows in bioMatrix plot.
-  getBioMatrixSampleHeight() return an integer for height of sample cell in bioMatrix plot.
-  getBioMatrixSampleIDHeight() return an integer for heoght of sample labels in bioMatrix plot. 
-  getBioMatrixSampleNumber() return an integer for total number of samples in bioMatrix plot.
-  getBioMatrixSampleWidth () return an integer for width of sample cell in bioMatrix plot.
-  getBioMatrixPlotAreaHeigth() return an integer for total height of bioMatrix plot.
-  getBioMatrixPlotAreaWidth() return an integer for total width of bioMatrix plot.
+  getBioMatrixBasePositions() returns an integer vector for xleft, ybottom, xright, and ytop positions.
+  getBioMatrixColumnPadding() returns an integer for width of padding between columns in bioMatrix plot.
+  getBioMatrixDataAreaWidth() returns an integer for width of data area in bioMatrix plot.
+  getBioMatrixGeneLabelWidth() returns an integer for width of gene labels in bioMatrix plot.
+  getBioMatrixGeneNumber() returns an integer for total number of genes in bioMatrix plot.
+  getBioMatrixLegendHeight() returns an integer for hieght of legend area in bioMatrix plot.
+  getBioMatrixPhenotypeNumber() returns an integer for total number of phenotypes in bioMatrix plot.
+  getBioMatrixRemarkWidth() returns an integer for width of remark column in bioMatrix plot.
+  getBioMatrixRowPadding() returns an integer for height of padding between rows in bioMatrix plot.
+  getBioMatrixSampleHeight() returns an integer for height of sample cell in bioMatrix plot.
+  getBioMatrixSampleIDHeight() returns an integer for heoght of sample labels in bioMatrix plot. 
+  getBioMatrixSampleNumber() returns an integer for total number of samples in bioMatrix plot.
+  getBioMatrixSampleWidth () returns an integer for width of sample cell in bioMatrix plot.
+  getBioMatrixPlotAreaHeigth() returns an integer for total height of bioMatrix plot.
+  getBioMatrixPlotAreaWidth() returns an integer for total width of bioMatrix plot.
 }
 \author{
     Henry Zhang
